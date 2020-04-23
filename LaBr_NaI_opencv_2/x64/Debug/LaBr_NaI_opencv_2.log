@@ -1,0 +1,136 @@
+﻿  Source.cpp
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\opencv\include\opencv2\calib3d.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(58,12): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(78,29): warning C4474: 'scanf_s': 書式文字列に渡された引数の数が多すぎます
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(78,29): message : プレースホルダーとそのパラメーターには 1 の可変個引数が必要ですが、2 が指定されています。
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(96,77): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(96,35): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(96,152): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(96,110): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(97,92): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(97,30): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(97,230): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(97,168): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(98,90): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(98,30): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(98,224): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(98,164): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(99,92): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(99,30): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(99,228): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(99,168): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(100,92): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(100,30): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(100,228): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(100,168): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(327,105): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(327,71): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(328,133): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(328,99): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(330,102): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\purol\source\repos\LaBr_NaI_opencv_2\LaBr_NaI_opencv_2\Source.cpp(330,68): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+  LaBr_NaI_opencv_2.vcxproj -> C:\Users\purol\source\repos\LaBr_NaI_opencv_2\x64\Debug\LaBr_NaI_opencv_2.exe
