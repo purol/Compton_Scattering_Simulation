@@ -1,5 +1,5 @@
 # Compton_Scattering_Simulation
-For "Laboratory Work in Physics A1(物理科学課題演習A1)" of Kyoto university. I wanted to know a effect of a angular resolution. Therefore, I made simulation of compton scattering.
+For "Laboratory Work in Physics A1(物理科学課題演習A1)" of Kyoto university, I wanted to know a effect of a angular resolution. Therefore, I made simulation of compton scattering.
 
 How to use
 -------------
