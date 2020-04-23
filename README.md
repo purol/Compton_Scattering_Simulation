@@ -86,7 +86,7 @@ Result
 | 160 | 188.5 | 186.36 |188.44|
 | 170 | 187.1 | 185.81 |185.36|
 | 180 | 186.5 | 184.53 |184.34|
-* Comparison among the simulation, experiment, ideal value(by Klein-Nishina formula). As you can see, simulation shows high discrepancy from ideal value and experiment data at low angle. It may be stem from error of attenuation coefficient value.
+* Comparison among the simulation, experiment, and ideal value. As you can see, simulation shows high discrepancy from ideal value and experiment data at low angle. It may be stem from error of attenuation coefficient value.
 #
 Used library
 -------------
