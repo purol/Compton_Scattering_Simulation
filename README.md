@@ -31,6 +31,8 @@ However, I do not know how to calculate this value. So I just use the values of 
 
 Running Image
 -------------
+> They are webp files. You probably can not see this images on some browser, like Safari.
+
 <img src="/img/animation2.webp"  width="70%" height="70%"> 
 <img src="/img/animation1.webp"  width="70%" height="70%">
 <img src="/img/animation3.webp"  width="70%" height="70%">
