@@ -1,8 +1,13 @@
 # Compton_Scattering_Simulation
 For "Laboratory Work in Physics A1(物理科学課題演習A1)" of Kyoto university, I wanted to know a effect of a angular resolution. Therefore, I made simulation of compton scattering.
 
+You can build it by Visual Studio 2019 (different version can cause some problem.)
+or you can just run x64\Release\opencvtest.exe. 
+
 How to use
 -------------
+> If you do not have Visual Studio, then you need do install Visual C++ Redistributable. Here is the link (https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
+
 1. Build the project or run x64\Release\LaBr_NaI_500000_revise4.exe, LaBr_NaI_5000000_revise4.exe, or LaBr_NaI_25000000_revise4.exe
 > NOTE 500000, 5000000, and 25000000 mean a number of photons which you want to simulate.
 2. The program ask whether you print animation or not. Enter 'y' if you want.
