@@ -10,6 +10,8 @@ How to use
 
 1. Build the project or run x64\Release\LaBr_NaI_500000_revise4.exe, LaBr_NaI_5000000_revise4.exe, or LaBr_NaI_25000000_revise4.exe
 > NOTE 500000, 5000000, and 25000000 mean a number of photons which you want to simulate.
+
+> Because I uploaded dll files by Git LFS. You can not download dll files by "Download Zip" button. It will make some error having to do with opencv_world420.dll. Therefore, you need to download opencv_world420.dll file seperately or you can just download it from official website (https://opencv.org/)
 2. The program ask whether you print animation or not. Enter 'y' if you want.
 3. Enter a degree you want to simulate. Please select number from 0 to 180. Value over this range may not work.
 4. Wait the end of simulation. If you entered 'y' on above, you probably see how photons move.
