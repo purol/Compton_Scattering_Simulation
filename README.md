@@ -81,7 +81,7 @@ Result
 #
 | Angle (degree) | Energy of NaI at the simulation (keV) | Energy of NaI at the experiment (keV) | Ideal Energy of NaI (keV) |
 | :---: | :---: | :---: | :---: |
-| 50 | 485.5 | 437.67 | 452.56 |
+| 50 | 482.5 | 437.67 | 452.56 |
 | 60 | 429 | 389.55 | 401.75 |
 | 70 | 380 | 354.63 |357.37|
 | 80 | 341 | 311.50 |319.72|
